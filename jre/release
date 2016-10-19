@@ -1,0 +1,5 @@
+JAVA_VERSION="1.7.0"
+OS_NAME="Windows"
+OS_VERSION="5.2"
+OS_ARCH="amd64"
+SOURCE=" .:8e49ff2feda3 corba:e82d31e1f118 deploy:61d45f5d5e3e hotspot:0d82bf449a61 hotspot/src/closed:3bc8b4cfc133 hotspot/test/closed:23561d79bdf1 install:807209eda2e3 jaxp:7863a60ae4b4 jaxws:defde3ef0360 jdk:b130c8cfecfc jdk/make/closed:69300f1d7629 jdk/src/closed:a83d6542ba08 jdk/test/closed:bc3115618530 langtools:2782a1c60faf pubs:3cc0080179f6 sponsors:17e2c26c540c"

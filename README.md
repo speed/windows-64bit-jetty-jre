@@ -11,7 +11,7 @@
 
 3.Copy newcrawler/war to windows-64bit-jetty-jre/war
 	
-4.Run start.bat 
+4.Run windows-64bit-jetty-jre/start.bat 
 
 5.http://127.0.0.1:8500/
 

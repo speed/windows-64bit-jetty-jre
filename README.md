@@ -1,4 +1,5 @@
-
+## Install NewCrawler
+```
 
 1.Download NewCrawler war:
 
@@ -14,5 +15,14 @@
 4.Run windows-64bit-jetty-jre/start.bat 
 
 5.http://127.0.0.1:8500/
+
+```
+
+
+## Install Chrome
+	https://github.com/speed/newcrawler-plugin-urlfetch-chrome
+	
+	https://raw.githubusercontent.com/speed/newcrawler-plugin-urlfetch-chrome/master/crx/ModHeader.crx
+	https://raw.githubusercontent.com/speed/newcrawler-plugin-urlfetch-chrome/master/driver/chromedriver_win32.80.0.3987.106/chromedriver.exe
 
 	

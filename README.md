@@ -7,7 +7,7 @@
 	
 2.Download NewCrawler server:
 
-	https://github.com/speed/windows-64bit-jetty-jre/archive/master.zip
+	http://dependency.newcrawler.com/windows-64bit-jetty-jre.zip
 
 
 3.Copy newcrawler/war to windows-64bit-jetty-jre/war
@@ -21,8 +21,3 @@
 
 ## Install Chrome
 	https://github.com/speed/newcrawler-plugin-urlfetch-chrome
-	
-	https://raw.githubusercontent.com/speed/newcrawler-plugin-urlfetch-chrome/master/crx/ModHeader.crx
-	https://raw.githubusercontent.com/speed/newcrawler-plugin-urlfetch-chrome/master/driver/chromedriver_win32.80.0.3987.106/chromedriver.exe
-
-	
